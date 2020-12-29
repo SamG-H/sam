@@ -4,10 +4,12 @@ import About from './components/About.js'
 
 function App() {
   return (
-    <div style={{ 
-      backgroundImage: 'url(/images/forest.jpg)',
-      height: '500px' }}>
-      <h1>Hi! My name is Sam!</h1>
+    <div className='App'>
+      <h1>Samuel Grasse-Haroldsen</h1>
+      <h2>Hacker at large</h2>
+      <div className='image-container'>
+        <img className='image' src='images/sam2.JPG'></img>
+      </div>
       <Intro />
       <About />
     </div>
