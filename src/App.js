@@ -9,7 +9,7 @@ function App() {
       <h1>Samuel Grasse-Haroldsen</h1>
       <h2>in an instance</h2>
       <div className='image-container'>
-        <img className='image' src='images/sam_3.png' alt='Me'></img>
+        <img className='image' src='images/mini_sam.png' alt='Me'></img>
         <Terminal />
       </div>
       <Intro />
