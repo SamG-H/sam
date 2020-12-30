@@ -1,0 +1,26 @@
+.Terminal {
+  border-top: dimgray 10px solid;
+  vertical-align: middle;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  color: black;
+  font-family: Hack, monospace;
+  font-size: 15px;
+  text-align: left;
+  display: inline-block;
+  padding: 0 7px;
+  margin: 0;
+  height: 280px;
+}
+
+.result {
+  color: #0b5201;
+}
+
+a {
+  color: #522401;
+}
+
+a:visited {
+  color: #490152;
+}
