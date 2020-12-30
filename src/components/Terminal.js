@@ -7,7 +7,7 @@ export default function Terminal() {
       <p>> sam.location</p>
       <p className='result'>&nbsp;=> 'Eugene, OR'</p>
       <p>> sam.interests</p>
-      <p className='result'>&nbsp;=> ["forests", "linux", "the ocean", "emacs", "drums", "parkour"]</p>
+      <p className='result'>&nbsp;=> ["forests", "linux", "the ocean", "beans", "drums", "birds"]</p>
       <p>> sam.resume</p>
       <p className='result'>&nbsp;=> '<a href='/sam_resume.pdf' target='_new'>sam_resume.pdf</a>'</p>
       <p>> sam.accounts</p>
