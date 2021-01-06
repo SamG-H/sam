@@ -19,6 +19,7 @@
 }
 
 .image-container {
+    padding: 50px;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -43,6 +44,13 @@ h1 {
 
 h2 {
   color: white;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 38px;
+}
+
+.description {
+  color: white;
   margin-top: -25px;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -51,6 +59,5 @@ h2 {
 
 .text {
   font-family: 'Roboto', sans-serif;
-  padding: 50px;
   font-size: x-large;
 }
