@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function About() {
+export default function TechStack() {
   return (
     <div className='image-container'>
       <img className='techstack-image' src='/images/react-icon.png' height='128px' width='128px' alt='react'></img>

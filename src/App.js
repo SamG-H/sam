@@ -1,6 +1,6 @@
 import './App.css';
 import Intro from './components/Intro.js'
-import About from './components/About.js'
+import TechStack from './components/TechStack.js'
 import Terminal from './components/Terminal'
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <Terminal />
       </div>
       <Intro />
-      <About />
+      <TechStack />
     </div>
   );
 }
